@@ -426,7 +426,7 @@ function HomeScreen({
             AI Senior Care Guide
           </span>
           <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-4 leading-tight">
-            AI가 함께하는 건강한 노후
+            희원이와 함께하는 건강한 노후
           </h1>
           <p className="text-slate-600 text-base md:text-lg font-normal mb-8 max-w-xl leading-relaxed">
             CareLog는 매일의 건강을 기록하고, AI 분석을 통해 맞춤형 건강 정보를 제공하는 시니어 케어 플랫폼입니다.
